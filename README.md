@@ -1,2 +1,2 @@
 # first-app
-this is a smaple app for git tutor
+this is a sample app for git tutor
